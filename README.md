@@ -4,12 +4,12 @@
 
 Este repositório contém a documentação e a pasta zipada do projeto no expo.
 
-O Todo-Calendar é um aplicativo desenvolvido em React Native que permite aos usuários gerenciar suas tarefas e eventos em um único lugar. Ele combina funcionalidades de um calendário com uma lista de tarefas e eventos, permitindo que os usuários adicionem, excluam e visualizem informações relevantes. O app também está integrado a uma API (MockAPI) para persistência de dados.
+O Todo-Calendar é um aplicativo desenvolvido em React Native que permite aos usuários gerenciar suas tarefas e eventos em um único lugar. Ele combina funcionalidades de um calendário com uma lista de tarefas e eventos, permitindo que os usuários adicionem, excluam e visualizem. O app também está integrado a uma API (MockAPI) para persistência de dados.
 
+## VÍDEO
+link: https://www.youtube.com/watch?v=YUNUU-ZDydI&ab_channel=IsabelValentim
 
-##VÍDEO
-
-##DOCUMENTAÇÃO
+## DOCUMENTAÇÃO
 
 Descrição dos Módulos e Componentes
 1. App.js
@@ -17,9 +17,6 @@ Função: Configura a navegação principal do aplicativo.
 Navegação:
 React Navigation é usado para gerenciar navegação entre telas.
 Usa o Stack Navigator e Material Top Tabs para uma navegação fluida.
-Telas configuradas:
-HomeScreen (Tarefas).
-CalendarScreen (Calendário).
 
 
 2. Tela de Tarefas (HomeScreen.js)
